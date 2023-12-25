@@ -1,4 +1,8 @@
 # Create React App & Remote to Github
+Source:
+https://stackoverflow.com/questions/69864790/how-to-push-entire-react-folder-to-github
+https://docs.github.com/en/migrations/importing-source-code/using-the-command-line-to-import-source-code/adding-locally-hosted-code-to-github
+https://alvinalexander.com/git/git-show-change-username-email-address/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
