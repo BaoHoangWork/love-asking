@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/love-asking/static/css/main.7fb7aff5.css",
+    "main.js": "/love-asking/static/js/main.db6300d4.js",
+    "static/js/787.148d9364.chunk.js": "/love-asking/static/js/787.148d9364.chunk.js",
+    "index.html": "/love-asking/index.html",
+    "main.7fb7aff5.css.map": "/love-asking/static/css/main.7fb7aff5.css.map",
+    "main.db6300d4.js.map": "/love-asking/static/js/main.db6300d4.js.map",
+    "787.148d9364.chunk.js.map": "/love-asking/static/js/787.148d9364.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7fb7aff5.css",
+    "static/js/main.db6300d4.js"
+  ]
+}
