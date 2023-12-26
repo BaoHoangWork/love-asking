@@ -55,7 +55,7 @@ Should be successful
 ### `npm install gh-pages --save-dev`
 
 ## 2. Configure package.json
-Include property "homepage" with the value https://<github-name>.github.io/<repo-name>
+Include property "homepage" with the value https://{git-name}.github.io/{git-repo-name}
 
 ### `"predeploy" : "npm run build"` & `"deploy" : "gh-pages -d build"`
 Add these to "scripts" property
