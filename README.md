@@ -46,3 +46,24 @@ The tag "--allow-unrelated-histories" is used when the error "fatal: refusing to
 
 ### 3.6 `git push origin main`
 Should be successful
+
+
+# Deploy React project using gh-pages
+
+## 1. Install gh-pages package
+
+### `npm install gh-pages --save-dev`
+
+## 2. Configure package.json
+Include property "homepage" with the value https://<github-name>.github.io/<repo-name>
+
+### `"predeploy" : "npm run build"` & `"deploy" : "gh-pages -d build"`
+Add these to "scripts" property
+
+## 3. Run build
+After add ., commit & push -> run the command
+### `npm run deploy`
+This will check deploy info and push deployable version to new branch name gh-pages
+
+## 4. On github pages
+Setup to run website from branch gh-pages -> result
